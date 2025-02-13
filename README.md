@@ -30,7 +30,7 @@ Execute o comando abaixo para instalar as dependências do projeto:
 
 ```sh
 yarn install
-yarn dev
+
 ```
 
 Execute o comando subir a API:
